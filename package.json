@@ -1,0 +1,8 @@
+{
+  "name": "sarance.com",
+  "version": "1.0.0",
+  "description": "A Harp App on Github",
+  "dependencies": {
+    "harp": "^0.23.0"
+  }
+}
